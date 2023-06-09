@@ -1,4 +1,4 @@
-# music-player-app
+# Music Player App
 
 A Music Player that you can use to play songs from the top world charts
 
